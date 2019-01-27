@@ -1,2 +1,2 @@
-# Fcs_porcino_colombo
-Foundation of Computer Science exam submission
+# Foundation of Computer science exam submission
+Project by Matteo Porcino and Lorenzo Colombo
